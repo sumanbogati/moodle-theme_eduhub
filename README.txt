@@ -1,6 +1,7 @@
 About Eduhub
 --------------------
-Eduhub is a free theme for Moodle 3.0
+Eduhub is a free theme for Moodle 3.0.
+
 
 Theme installation
 ---------------------
